@@ -1,0 +1,26 @@
+.video {
+   text-align: center;
+   margin-top:200px;
+   margin-left: 250px;
+  }
+  .image{
+   text-align: center;
+   margin-left: 360px;
+   margin-top:-510px;
+  }
+.audiotag{
+    position: absolute;
+    margin-left:200px;
+    margin-top:-150px;
+}
+ button{
+    position: absolute;
+    margin-left: 0px;
+    margin-top: -450px;
+    width: 50%;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+ }
+
+
